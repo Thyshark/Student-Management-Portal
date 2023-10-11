@@ -1,1 +1,5 @@
 Hello, git!
+
+This were all the future of techonology lies. Think of millions of people from different
+places in the world comming together to write an algorithim that will change the world
+without having to move from their homes.
